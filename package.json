@@ -1,0 +1,14 @@
+{
+  "name": "test-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Leandro",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.59.0"
+  }
+}
